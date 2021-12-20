@@ -5,8 +5,8 @@ import os
 
 load_dotenv()
 
-BOT_NAME = os.getenv('BOT_NAME')
-COUNT = os.getenv('COUNT')
+BOT_NAME = os.getenv('Tiger_Inu_Referral_Bot')
+COUNT = os.getenv('16')
 REFER_ID = os.getenv('REFER_ID')
 DELAY_MIN = os.getenv('DELAY_MIN')
 DELAY_MAX = os.getenv('DELAY_MAX')
